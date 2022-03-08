@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @benedicere-code
 - 👀 I’m interested in Python, Data Science, Linux...
-- 🌱 I’m currently learning about Machine Learning.
 - 🎓 I’m studying at Bergische Universität Wuppertal.
 - 📫 How to reach me ...
 
